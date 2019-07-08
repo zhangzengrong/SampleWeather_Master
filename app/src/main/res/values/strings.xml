@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spinner">
+        <item>深圳</item>
+        <item>北京</item>
+        <item>上海</item>
+        <item>广州</item>
+        <item>杭州</item>
+        <item></item>
+    </string-array>
+</resources>
